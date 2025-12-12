@@ -1,9 +1,12 @@
 venv/
+multi-modal-RAG/venv/
 # Environment variables (contains API keys)
 .env
+multi-modal-RAG/.env
 
 # Vector database
 db/
+multi-modal-RAG/db/
 
 # Python
 __pycache__/
